@@ -7,8 +7,8 @@
 
 <br/>
 
-🎭 Fun Facts:
-<p>Outside of software engineering, I enjoy hanging upside down from an aerial apparatus to explore the world from a unique perspective 🤸🏻‍♀️, hiking in Mount Kurama in Kyoto in search of the mystical Tengu 👺, and finding solace in solving puzzles on artificial rock formations 🧗🏻
+🎭 Fun Facts about me:
+<p>Outside of software engineering, I enjoy hanging upside down from an aerial apparatus to explore the world from a unique perspective 🤸🏻‍♀️, hiking in Mount Kurama in Kyoto in search of the mystical Tengu 👺, and finding solace in solving puzzles on artificial rock formations 🧗🏻‍♀️
 </p>
 
 <br/>
@@ -36,5 +36,5 @@
 
 <br/>
 
-### 🌟 Github Stats
+### 🌟 Github Stats:
 >![badge](https://img.shields.io/github/followers/kinskiwu.svg?style=social&label=Follow&maxAge=2592000)
