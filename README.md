@@ -1,15 +1,20 @@
-<img src="./assets/banner.png"/>
+![banner](./assets/banner.png)
 
 # Hi there, I'm Kinski 🙋🏻‍♀️
 
-<h2> I'm a software engineer👩🏻‍💻, aerialist🎪, and foodie🥢</h2>
+<p>I'm a software engineer and co-creator of NextView, an open-source developer tool for monitoring Next.js application performance.👩🏻‍💻
+</p>
 
-<div style="margin-top: 10px; display:flex">
-  <h2> 🤝 Connect with me:</h2>
-  <div style="margin: 5px; height:26px">
-    <a href="https://www.linkedin.com/in/kinskiwu" alt="linkedin"><img src="./assets/linkedin.png"/>
-    </a>
-    <a href="https://www.instagram.com/the.aerialist.in.me" alt="instagram"><img src="./assets/instagram.png"/>
-    </a>
-  </div>
-</div>
+<br/>
+
+🎭 Fun facts about me:
+<p>Outside of software engineering, I enjoy hanging upside down from an aerial apparatus to explore the world from a unique perspective 🤸🏻‍♀️, hiking in Mount Kurama in Kyoto in search of the mystical Tengu 👺, and finding solace in solving puzzles on artificial rock formations 🧗🏻
+</p>
+
+<br/>
+
+
+
+### 🤝 Connect with me:
+>[![banner](./assets/linkedin.png)](https://www.linkedin.com/in/kinskiwu)
+>[![banner](./assets/instagram.png)](https://www.instagram.com/the.aerialist.in.me)
