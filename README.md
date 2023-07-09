@@ -1,10 +1,8 @@
-
 <img src="./assets/banner.png"/>
 
 # Hi there, I'm Kinski 🙋🏻‍♀️
 
-## I'm a software engineer👩🏻‍💻, aerialist🎪, and foodie🥢
-
+<h2> I'm a software engineer👩🏻‍💻, aerialist🎪, and foodie🥢</h2>
 
 <div style="margin-top: 10px; display:flex">
   <h2> 🤝 Connect with me:</h2>
@@ -15,5 +13,3 @@
     </a>
   </div>
 </div>
-
-
