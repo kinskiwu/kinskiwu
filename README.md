@@ -2,12 +2,12 @@
 
 # Hi there, I'm Kinski 🙋🏻‍♀️
 
-<p>I'm a software engineer and co-creator of NextView, an open-source developer tool for monitoring Next.js application performance.👩🏻‍💻
+###  <p>I'm a software engineer and co-creator of NextView, an open-source developer tool for monitoring Next.js application performance.👩🏻‍💻
 </p>
 
 <br/>
 
-🎭 Fun Facts about me:
+### 🎭 Fun Facts about me:
 <p>Outside of software engineering, I enjoy hanging upside down from an aerial apparatus to explore the world from a unique perspective 🤸🏻‍♀️, hiking in Mount Kurama in Kyoto in search of the mystical Tengu 👺, and finding solace in solving puzzles on artificial rock formations 🧗🏻‍♀️
 </p>
 
