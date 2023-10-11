@@ -6,6 +6,7 @@
 >
 > ### Outside of software engineering, I enjoy hanging upside down from an aerial apparatus to explore the world from a unique perspective 🤸🏻‍♀️, hiking in Mount Kurama in Kyoto in search of the mystical Tengu 👺, and finding solace in solving puzzles on artificial rock formations. 🧗🏻‍♀️
 
+<!---
 ### 🔧 Languages and Tools:
 >![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 >![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -36,3 +37,4 @@
 
 ### 🌟 Github Stats:
 >![github followers](https://img.shields.io/github/followers/kinskiwu.svg?style=social&label=Follow&maxAge=2592000)
+---!>
