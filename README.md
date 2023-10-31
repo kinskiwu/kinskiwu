@@ -6,7 +6,6 @@
 >
 > ### Outside of software engineering, I enjoy hanging upside down from an aerial apparatus to explore the world from a unique perspective 🤸🏻‍♀️, hiking in Mount Kurama in Kyoto in search of the mystical Tengu 👺, and finding solace in solving puzzles on artificial rock formations. 🧗🏻‍♀️
 
-<!---
 ### 🔧 Languages and Tools:
 >![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 >![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -30,10 +29,9 @@
 >![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 >![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 >![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
----!>
 
 ### 🤝 Connect with me:
->![linkedin](./assets/linkedin.png)](https://www.linkedin.com/in/kinskiwu)
+>[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kinskiwu/)
 
 ### 🌟 Github Stats:
 >![github followers](https://img.shields.io/github/followers/kinskiwu.svg?style=social&label=Follow&maxAge=2592000)
