@@ -1,6 +1,6 @@
 ## Hi there, I'm Kinski 🙋🏻‍♀️
 
-> ### I'm a Software Engineer👩🏻‍💻 and co-creator of [NextView](https://www.nextview.dev), *a Next.js observability platform that offers detailed application usage pattern analysis for server-side rendering infrastructure*. 
+> ### I'm a Software Engineer👩🏻‍💻 and co-creator of [NextView](https://www.nextview.dev), *a Next.js observability platform that offers detailed application usage pattern analysis for optimizing server-side rendering infrastructure*. 
 
 > ### Outside of software engineering, I enjoy hanging upside down from an aerial apparatus to explore the world from a unique perspective 🤸🏻‍♀️, hiking in Mount Kurama in Kyoto in search of the mystical Tengu 👺, and finding solace in solving puzzles on artificial rock formations. 🧗🏻‍♀️
 
