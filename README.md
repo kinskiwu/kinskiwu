@@ -1,6 +1,6 @@
 ## Hi there, I'm Kinski 🙋🏻‍♀️
 
-> ### I'm a Software Engineer with a zeal for automation and crafting dynamic apps, I excel in TypeScript, React, Node.js, and SQL databases. My drive to automate and innovate transforms complex challenges into streamlined, user-friendly solutions.
+> ### I'm a Software Engineer with a zeal for automation and crafting dynamic apps. My drive to automate and innovate transforms complex challenges into streamlined, user-friendly solutions.
 
 > ### Outside of software engineering, I enjoy hanging upside down from an aerial apparatus to explore the world from a unique perspective 🤸🏻‍♀️, hiking in Mount Kurama in Kyoto in search of the mystical Tengu 👺, and finding solace in solving puzzles on artificial rock formations. 🧗🏻‍♀️
 
