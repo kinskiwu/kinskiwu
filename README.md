@@ -1,8 +1,8 @@
-## Hi there, I'm Kinski 🙋🏻‍♀️
+## Hi there, I'm Kinski 🙋🏻‍♀️  
 
-My journey into software development has been shaped by **curiosity and a love for learning**, leading me through multiple careers. I started as a **translator**, and later took on roles in **visa assessment and IT specialist** at the **Australian Consulate in HK**. These experiences gave me deep insights into **problem-solving, communication, and process optimization**, which now guide how I build **scalable and accessible software solutions** that empower users of all abilities.
+My journey into software development has been shaped by **curiosity** 🧠 and a **love for learning** 📚, leading me through multiple careers. I started as a **Translator** and later took on roles as an **Investment Visa Assessor** and **IT Specialist** at the Australian Consulate in HK. These experiences gave me deep insights into **problem-solving**, **communication**, and **process optimization**, which now guide how I build **scalable** and **accessible** software solutions that **empower users of all abilities**.
 
-**Collaboration** fuels me - I enjoy working with **cross-functional teams** to solve challenges, optimize processes, and bring ideas to life.
+**Collaboration** 🤝 fuels me—I enjoy working with **cross-functional** teams to solve challenges, optimize processes, and bring ideas to life.
 
 ---
 
@@ -15,24 +15,24 @@ JavaScript, TypeScript, SQL, HTML, CSS, Java
 React, Next.js, Tailwind CSS, MUI, React Flow
 
 ### 🛠️ **Backend & Databases**  
-Node.js, Express.js, MongoDB, PostgreSQL
+Node.js, Express.js, MongoDB, PostgreSQL, Redis
 
 ### ☁️ **Cloud & Infrastructure**  
 AWS, GCP, Docker, Github Actions, Husky  
 
 ### 🔄 **State Management & Tools**  
-Redux, Zustand, React Query  
+Redux, Zustand, React Query, Jest, Vitest, Cypress  
 
 ---
 
 ## 🌱 Outside the Code  
 
-- **♿ Accessibility Advocate:** I build with **inclusion in mind** following **WCAG standards**  
-- **㈻ Lifelong Learner:** Passionate about exploring **new ideas**, mastering **new skills**, and embracing challenges that **foster growth**
+- **🌍  Accessibility Advocate:** I build with **inclusion** in mind following **WCAG** standards  
+- **㈻ Lifelong Learner:** Passionate about exploring **new ideas**, mastering **new skills**, and embracing **challenges that foster growth**
 - **📋 To-Do List Devotee:** I live by my **to-do list** - it’s my secret to staying on track and focused
-- **🌏 Multilingual:** Fluent in **English**, **Cantonese**, and **Mandarin** 
+- **🗣️ Multilingual:** Fluent in **English**, **Cantonese**, and **Mandarin** 
 - **🧗 Adventurer:** Avid **aerialist, rock climber, kayaker**  
 
 ---
 ## 🤝 Connect with me on LinkedIn:
->[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kinskiwu/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kinskiwu/)
