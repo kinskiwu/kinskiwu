@@ -4,7 +4,6 @@ My journey into software development has been shaped by **curiosity** 🧠 and a
 
 **Collaboration** 🤝 fuels me—I enjoy working with **cross-functional** teams to solve challenges, optimize processes, and bring ideas to life.
 
----
 
 ## ⚡ My Toolbox  
 
@@ -23,7 +22,6 @@ AWS, GCP, Docker, Github Actions, Husky
 ### 🔄 **State Management & Tools**  
 Redux, Zustand, React Query, Jest, Vitest, Cypress  
 
----
 
 ## 🌱 Outside the Code  
 
@@ -33,6 +31,6 @@ Redux, Zustand, React Query, Jest, Vitest, Cypress
 - **🗣️ Multilingual:** Fluent in **English**, **Cantonese**, and **Mandarin** 
 - **🧗 Adventurer:** Avid **aerialist, rock climber, kayaker**  
 
----
+
 ## 🤝 Connect with me on LinkedIn:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kinskiwu/)
