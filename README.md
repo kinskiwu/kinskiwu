@@ -12,10 +12,10 @@ My journey into software development has been shaped by **curiosity and a love f
 JavaScript, TypeScript, SQL, HTML, CSS, Java  
 
 ### 🎨 **Frontend**  
-React, Next.js, Tailwind CSS, MUI, Spring Boot 
+React, Next.js, Tailwind CSS, MUI, React Flow
 
 ### 🛠️ **Backend & Databases**  
-Node.js, Express.js, PostgreSQL, MongoDB  
+Node.js, Express.js, MongoDB, PostgreSQL
 
 ### ☁️ **Cloud & Infrastructure**  
 AWS, GCP, Docker, Github Actions, Husky  
