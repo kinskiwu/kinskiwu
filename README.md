@@ -1,9 +1,10 @@
-## Hi there, I'm Kinski 🙋🏻‍♀️  
+## 🌱 About Me:
+- **🌍 Accessibility Advocate:** I dream of the internet **accessible to all**
+- **📋 Productivity Nerd:** I organize my life with a to-do list
+- **🗣️ Multilingual & Ex-Translator:** Fluent in **English**, **Cantonese**, and **Mandarin**
+- **🧗 Adventurer**: Aerialist, rock climber (aka professional crash mat tester)
 
-My journey into software development has been shaped by **curiosity** 🧠 and a **love for learning** 📚, leading me through multiple careers. I started as a **Translator** and later took on roles as an **Investment Visa Assessor** and **IT Specialist** at the Australian Consulate in HK. These experiences gave me deep insights into **problem-solving**, **communication**, and **process optimization**, which now guide how I build **scalable** and **accessible** software solutions that **empower users of all abilities**.
-
-**Collaboration** 🤝 fuels me—I enjoy working with **cross-functional** teams to solve challenges, optimize processes, and bring ideas to life.
-
+**👩🏻‍💻👩‍🎨 Collaboration** - would love to connect with fellow code poets, productivity nerds, accessibility advocates, or anyone passionate about using tech for positive change
 
 ## ⚡ My Toolbox  
 
@@ -21,16 +22,6 @@ AWS, GCP, Docker, Github Actions, Husky
 
 ### 🔄 **State Management & Tools**  
 Redux, Zustand, React Query, Jest, Vitest, Cypress  
-
-
-## 🌱 Outside the Code  
-
-- **🌍  Accessibility Advocate:** I build with **inclusion** in mind following **WCAG** standards  
-- **㈻ Lifelong Learner:** Passionate about exploring **new ideas**, mastering **new skills**, and embracing **challenges that foster growth**
-- **📋 To-Do List Devotee:** I live by my **to-do list** - it’s my secret to staying on track and focused
-- **🗣️ Multilingual:** Fluent in **English**, **Cantonese**, and **Mandarin** 
-- **🧗 Adventurer:** Avid **aerialist, rock climber, kayaker**  
-
 
 ## 🤝 Connect with me on LinkedIn:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kinskiwu/)
