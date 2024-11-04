@@ -25,3 +25,9 @@ Redux, Zustand, React Query, Jest, Vitest, Cypress
 
 ## 🤝 Connect with me on LinkedIn:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kinskiwu/)
+
+<div align="left">
+  
+[![ToolJet Template Trailblazer](https://logo-badges.tooljet.com/Template-Template-Badge.svg)](https://github.com/orgs/ToolJet/projects/16/views/2)
+
+</div>
