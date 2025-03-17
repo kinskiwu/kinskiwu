@@ -9,7 +9,7 @@
 ## ⚡ My Toolbox  
 
 ### 💻 **Languages**  
-JavaScript, TypeScript, SQL, HTML, CSS, Java  
+JavaScript, TypeScript, SQL, HTML, CSS, Python  
 
 ### 🎨 **Frontend**  
 React, Next.js, Tailwind CSS, MUI, React Flow
